@@ -15,13 +15,10 @@ public class mad_lib {
     adj1 = sc.nextLine();
     System.out.print("Enter a noun (animal or person): ");
     noun1 = sc.nextLine();
-
     System.out.print("Enter an adjective (Description): ");
     adj2 = sc.nextLine();
-
     System.out.print("Enter a verb end with -ing (action): ");
     verb1 = sc.nextLine();
-
     System.out.print("Enter an adjective (Description): ");
     adj3 = sc.nextLine();
 
